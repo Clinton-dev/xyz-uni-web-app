@@ -1,3 +1,4 @@
 .idea
 
-./resources/codebase_partner/node_modules
+./resources/codebase_partner/node_modules/
+node_modules/
