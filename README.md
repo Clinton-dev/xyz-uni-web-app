@@ -5,6 +5,13 @@
 This project is a proof-of-concept deployment of a highly available, scalable, and secure student records web application using AWS. Developed as part of the AWS Academy capstone project, the solution addresses performance and availability concerns during peak admissions periods at a fictional university.
 
 ---
+## Architecture Overview
+
+The following diagram illustrates the high-level architecture of the student records web application deployed on AWS:
+
+![Architecture Diagram](./path/to/architecture-diagram.png)
+
+---
 
 ## 🏗 Architecture Summary
 
