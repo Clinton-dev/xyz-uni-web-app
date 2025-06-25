@@ -9,7 +9,7 @@ This project is a proof-of-concept deployment of a highly available, scalable, a
 
 The following diagram illustrates the high-level architecture of the student records web application deployed on AWS:
 
-![Architecture Diagram](./path/to/architecture-diagram.png)
+![Architecture Diagram](xzy uni.drawio (3).png)
 
 ---
 
