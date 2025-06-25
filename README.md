@@ -11,6 +11,10 @@ The following diagram illustrates the high-level architecture of the student rec
 
 ![Architecture Diagram](https://github.com/Clinton-dev/xyz-uni-web-app/blob/main/xzy%20uni.drawio%20(3).png)
 
+![Screenshot from 2025-06-25 15-13-46](https://github.com/user-attachments/assets/d90791b8-4678-437b-9524-458f9bed1e93)
+
+![Screenshot from 2025-06-25 15-14-01](https://github.com/user-attachments/assets/c6a5408d-8e22-416f-aa66-dc3da18f6983)
+
 ---
 
 ## 🏗 Architecture Summary
