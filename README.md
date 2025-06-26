@@ -107,6 +107,20 @@ Database credentials are securely retrieved at runtime from [AWS Secrets Manager
 
 ```js
 const { SecretsManagerClient, GetSecretValueCommand } = require("@aws-sdk/client-secrets-manager");
+
+export const getSecretValue = async (secretName = "SECRET_NAME") => {
+  const client = new SecretsManagerClient();
+  const response = await client.send(
+    new GetSecretValueCommand({
+      SecretId: secretName,
+    }),
+  );
+  console.log(response);
+
+ if (response.SecretString) {
+    return response.SecretString;
+  }
+};
 ```
 
 ---
